@@ -3867,6 +3867,18 @@
                     "guid": "I:c]mwEa$9",
                     "note_model_uuid": "0f85078c-48f8-11ea-a583-20c9d0810917",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "testestset",
+                        "lololol"
+                    ],
+                    "flags": 0,
+                    "guid": "jM4qWZ~j8C",
+                    "note_model_uuid": "0f85078c-48f8-11ea-a583-20c9d0810917",
+                    "tags": []
                 }
             ]
         }
